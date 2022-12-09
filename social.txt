@@ -10,6 +10,9 @@ Tiwtter:
 Facebook:
 <div><img src="https://i.im.ge/2022/12/07/SzJ3XS.Facebook.png" alt="facebook"><span>[Page Name]</span><a href="[Page Link]" target="_blank"><i class="fas fa-arrow-up"></i></a></div>
 
+Discord:
+<div><img src="https://i.im.ge/2022/12/10/dTZ5KL.Discord.png" alt="discord"><span>[User Tag]</span><a href="https://discord.com/users/[ID]" target="_blank"><i class="fas fa-arrow-up"></i></a></div>
+
 Spotify:
 <div><img src="https://i.im.ge/2022/12/07/Sz4mqL.Spotify.png" alt="spotify"><span>[User Name]</span><a href="[User Link]" target="_blank"><i class="fas fa-arrow-up"></i></a></div>
 
