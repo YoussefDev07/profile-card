@@ -1,0 +1,5 @@
+<b> </b> => Bold (**)
+<code> </code> => Code (`)
+<u> </u> => Underline (__)
+<i> </i> => italic (*, _)
+<a href="[URL]" target="_blank"> </a> => Link (URL)

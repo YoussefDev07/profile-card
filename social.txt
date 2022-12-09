@@ -1,0 +1,17 @@
+YouTube:
+<div><img src="https://i.im.ge/2022/12/07/SzvXfm.Youtube.png" alt="youtube"><span>[Channel Name]</span><a href="[Channel Link]" target="_blank"><i class="fas fa-arrow-up"></i></a></div>
+
+Tik Tok:
+<div><img src="https://i.im.ge/2022/12/07/SzvdJG.TikTok.png" alt="tiktok"><span>[Account Name]</span><a href="[Account Link]" target="_blank"><i class="fas fa-arrow-up"></i></a></div>
+
+Tiwtter:
+<div><img src="https://i.im.ge/2022/12/07/SzvIuy.Twitter.png" alt="twitter"><span>[Account Name]</span><a href="[Account Link]" target="_blank"><i class="fas fa-arrow-up"></i></a></div>
+
+Facebook:
+<div><img src="https://i.im.ge/2022/12/07/SzJ3XS.Facebook.png" alt="facebook"><span>[Page Name]</span><a href="[Page Link]" target="_blank"><i class="fas fa-arrow-up"></i></a></div>
+
+Spotify:
+<div><img src="https://i.im.ge/2022/12/07/Sz4mqL.Spotify.png" alt="spotify"><span>[User Name]</span><a href="[User Link]" target="_blank"><i class="fas fa-arrow-up"></i></a></div>
+
+GitHub:
+<div><img src="https://i.im.ge/2022/12/07/SzGivc.GitHub.png" alt="github"><span>[User Name]</span><a href="[User Link]" target="_blank"><i class="fas fa-arrow-up"></i></a></div>
