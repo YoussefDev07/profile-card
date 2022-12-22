@@ -1,7 +1,7 @@
 # Profile Card 
 >  ### Made By: Youssef Over
 
-[شرح إنشاء الموقع]() 
+[شرح إنشاء الموقع](https://youtu.be/WTpwA8w0o6Y) 
 
 1. [الدعم الفني](https://discord.gg/WM5gftxNRg) 
 2. [دعم فني إحتياطي](https://discord.gg/H6xGUrGBF2)
